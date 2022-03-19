@@ -46,6 +46,16 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,ypncdn.com
+DOMAIN-SUFFIX,boyfriendtv.com
+DOMAIN-SUFFIX,playvids.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,tt1069.com
+DOMAIN-SUFFIX,soutong.men
+DOMAIN-SUFFIX,shuaigay6.com
+DOMAIN-SUFFIX,gaybeeg.info
+DOMAIN-SUFFIX,cam4.com
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,hitomi.la
 
 # Facebook
 DOMAIN-SUFFIX,facebook.com
@@ -123,3 +133,9 @@ IP-CIDR,220.181.174.34/32,no-resolve
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
+
+# pinterest
+DOMAIN-SUFFIX,pinterest.com
+
+# behance
+DOMAIN-SUFFIX,behance.net
